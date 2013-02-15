@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BorraComplejos.cs" />
+    <Compile Include="BorraLíneas.cs" />
+    <Compile Include="BorraPolígonos.cs" />
+    <Compile Include="BorraPuntos.cs" />
     <Compile Include="BorraTextos.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SuperBininfo.cs" />
